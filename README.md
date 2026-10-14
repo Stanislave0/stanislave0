@@ -2,4 +2,4 @@
 
 <h3 align='center'>Frontend developer and UX/Ui Designer</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanislave0&show_icons=true&theme=merko)](https://github.com/stanislave0/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanislave0&show_icons=true&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/stanislave0/github-readme-stats)
