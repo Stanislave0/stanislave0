@@ -1,1 +1,1 @@
-<h1 style="align-text: center">Привет, я Станислав👋</h1>
+<h1 align="center">Привет, я Станислав👋</h1>
